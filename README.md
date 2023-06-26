@@ -10,12 +10,18 @@ Le prototype offre deux versions : classique et mobile.
 
 1. un prototypage d'un site web pour un cabinet bien-être en Figma
    la version avec des interactions:
+   https://www.figma.com/proto/bLQ9LlqXKeemXokP3wFK9h/prototypage_ihm_interactif?type=design&node-id=1-600&scaling=scale-down&page-id=0%3A1&starting-point-node-id=1%3A600&show-proto-sidebar=1&mode=design
+   
    https://www.figma.com/file/bLQ9LlqXKeemXokP3wFK9h/prototypage_ihm_interactif?type=design&t=UO49E7nuR9xWyMfw-1
 
 
-2. la version générale(sans interaction)
+3. la version générale(sans interaction)
+   https://www.figma.com/proto/2bYX4xfCsYCOCFy59eG4RO/prototypage_ihm_generale?type=design&node-id=2-76&scaling=scale-down&page-id=0%3A1&starting-point-node-id=2%3A76&mode=design
+   
    https://www.figma.com/file/2bYX4xfCsYCOCFy59eG4RO/prototypage_ihm_generale?type=design&node-id=0%3A1&t=YiWOn61b6bSUNUAM-1
 
-3. la version responsive sur smartphone
+5. la version responsive sur smartphone
+   https://www.figma.com/proto/fuV9EwJzP0qBeI2moqqjdO/prototypage_ihm_smartphone_interactive?type=design&node-id=1-1000&scaling=scale-down&page-id=0%3A1&starting-point-node-id=1%3A1000&mode=design
+   
    https://www.figma.com/file/fuV9EwJzP0qBeI2moqqjdO/prototypage_ihm_smartphone_interactive?type=design&t=Wfk88WI5TIlMbVdR-1
 
